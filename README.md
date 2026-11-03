@@ -62,6 +62,10 @@ A Salesforce Lightning application that helps an event company plan and run even
 ### Event cancellation approval
 ![Approval process](diagrams/approval.png)
 
+## Demo Video
+
+[Watch Project Demo](https://drive.google.com/file/d/10dreKtevFhDOkYQFvfSX7S6UVDRp4b_1/view?usp=sharing)
+
 ## Screenshots
 
 | Lightning App | Dashboard |

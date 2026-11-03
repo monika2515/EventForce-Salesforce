@@ -15,7 +15,7 @@ A Salesforce Lightning application that helps an event company plan and run even
 
 > **Team ID:** SWTID-2026-1405 | **Program:** SmartBridge x SkillWallet Salesforce project
 > **College:** P.B. College of Engineering, B.Tech Information Technology
-> **Demo video:** `<paste your demo video link here>`
+> **Demo video:** [Watch EventForce Project Demo](https://drive.google.com/file/d/10dreKtevFhDOkYQFvfSX7S6UVDRp4b_1/view?usp=sharing)
 
 ---
 
@@ -61,10 +61,6 @@ A Salesforce Lightning application that helps an event company plan and run even
 
 ### Event cancellation approval
 ![Approval process](diagrams/approval.png)
-
-## Demo Video
-
-[Watch Project Demo](https://drive.google.com/file/d/10dreKtevFhDOkYQFvfSX7S6UVDRp4b_1/view?usp=sharing)
 
 ## Screenshots
 
